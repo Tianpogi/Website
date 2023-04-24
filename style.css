@@ -1,0 +1,341 @@
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+.carousel-control-next-icon {
+    scale: 0.5;
+}
+
+.carousel-control-prev-icon {
+    scale: 0.5;
+}
+.div1 {
+    width: 100%;
+    height: 450px;
+}
+
+.div2 {
+    margin-right: 120px;
+    margin-left: 120px;
+    background-color: black;
+    border-radius: 10px;
+    opacity: 0.9;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.div3 {
+    margin-right: 120px;
+    margin-left: 120px;
+    background-color: white;
+    opacity: 0.9;
+    text-align: center;
+    margin-top: 75px;
+}
+
+.Whitediv {
+    background-color: white;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 30px;
+    height: 200px;
+    border-radius: 30px;
+
+}
+
+.imgcentered {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.hobbiestxt {
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    letter-spacing: 3px;
+    font-size: 40px;
+    text-align: left;
+    padding-top: 60px;
+    margin-left: 10px;
+}
+
+.hobbiestxtsmall {
+    font-family: 'Raleway';
+    color: white;
+    font-size: 15px;
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.aboutmediv {
+    background-color: black;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+    font-family: 'Raleway';
+    height: 300px;
+}
+
+.summarydiv {
+    margin-right: 20px;
+    margin-top: 50px;
+    padding-top: 20px;
+}
+
+.skillsdiv {
+    margin-right: 20px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.backgrounddiv {
+    padding-top: 10px;
+}
+
+.carouseldiv {
+    max-width: 85%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.divcert {
+    margin-top: 20px;
+}
+
+
+
+.text1 {
+    text-align: center;
+    margin-top: 20%;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.text11 {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    letter-spacing: 2px;
+
+}
+
+.text12 {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 35px;
+    letter-spacing: 2px;
+    margin-top: 60px;
+
+}
+
+.text2 {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+}
+
+.text3 {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    color: black;
+    letter-spacing: 5px;
+    font-size: 30px;
+    margin-top: 50px;
+
+
+}
+
+.text4 {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    color: Black;
+    padding-top: 20px;
+    letter-spacing: 5px;
+    font-size: 50px;
+
+}
+
+.text5 {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    margin-top: 10%;
+}
+
+.certtext1 {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.navbartext1 {
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 5px;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.navbartext2 {
+    font-family: 'Raleway', sans-serif;
+    letter-spacing: 3px;
+    font-size: 15px;
+}
+
+.aboutmetextmain {
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    font-size: 20px;
+    letter-spacing: 2px;
+    padding-top: 10px;
+    text-align: center;
+
+}
+
+.certimg {
+    width: 400px;
+}
+
+.minidiv1 {
+    background-color: black;
+    text-align: center;
+}
+
+.backgroundtext {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 15px;
+
+}
+
+.backgroundtext1 {
+    font-family: 'Raleway', sans-serif;
+    text-align: left;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.backgroundtext2 {
+    font-family: 'Raleway', sans-serif;
+    text-align: justify;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    line-height: 2;
+}
+
+.backgroundlist {
+    padding-top: 30px;
+    margin-top: 20px;
+    scale: .88;
+}
+
+.kodfun-galeri {
+    display: flex;
+    height: 20rem;
+    gap: 1rem;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    margin-bottom: 60px;
+}
+
+.kodfun-galeri>div {
+    flex: 1;
+    border-radius: 1rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    transition: all, 1s cubic-bezier(0.25, 0.4, 0.45, 1.4)
+}
+
+.kodfun-galeri>div:hover {
+    flex: 5;
+}
+
+.scaled {
+    transform: scale(.93);
+}
+
+/* Flip Card */
+
+.flip-card {
+    background-color: Transparent;
+    height: 300px;
+    perspective: 1000px;
+}
+
+.flip-card-inner {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+
+}
+
+.flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+.flip-card-front,
+.flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    border-radius: 16px;
+}
+
+.flip-card-front {
+    background-image: black;
+}
+
+
+.flip-card-back {
+    background-image: black;
+    color: black;
+    transform: rotateY(180deg);
+}
+
+/* contact me */
+
+.symbol {
+    color: transparent; 
+    border-radius: 5px;
+    height:25px;   
+    
+}
+
+.btn {
+    position: absolute;
+    background-color: transparent;
+    scale: .9;
+    float: right;
+    
+}
